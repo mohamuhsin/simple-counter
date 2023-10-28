@@ -11,4 +11,32 @@
 4. Create two buttons, one for incrementing and one for decrementing the count.
 5. Attach event handlers to these buttons to update the count state.
 6. Display the updated count in your component.
+7. make sure you style your app.
+
+**Counter.css**
+
+```
+/* Counter.css */
+.counter {
+  font-size: 2rem;
+  text-align: center;
+}
+
+button {
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+```
+   
+
+
 
