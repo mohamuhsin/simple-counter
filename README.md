@@ -13,7 +13,7 @@
 6. Display the updated count in your component.
 7. make sure you style your app.
 
-**Counter.css**
+**CSS Code**
 
 ```
 /* Counter.css */
