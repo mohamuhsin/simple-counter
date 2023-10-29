@@ -1,6 +1,6 @@
 # Simple Counter
 
-**Project 1: Simple Counter**
+**Project: Simple Counter**
 
 *Description*: Create a simple counter application that allows you to increment and decrement a counter value.
 
